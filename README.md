@@ -1,4 +1,4 @@
-# DevConnector 2.0
+# DevConnector
 
 > Social network for developers
 
@@ -45,8 +45,6 @@ npm run build
 ### Author
 
 Vikash Kumar Meena
-
-2.0.0
 
 ### License
 
